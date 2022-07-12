@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = giulia.baggio@gmail.com
+	name = Giulia Baggio
